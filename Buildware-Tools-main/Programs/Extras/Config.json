@@ -1,0 +1,17 @@
+{
+    "launched": false,
+    "configured": true,
+    "auto_update": true,
+    "skip_animation": false,
+    "webhooks": [
+        ""
+    ],
+    "tokens": [],
+    "bots": [],
+    "cookies": [],
+    "github_star": "",
+    "page": 3,
+    "plugins_visible": [
+        "Example Plugin"
+    ]
+}

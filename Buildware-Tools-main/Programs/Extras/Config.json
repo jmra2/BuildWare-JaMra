@@ -1,0 +1,17 @@
+{
+    "launched": false,
+    "configured": true,
+    "auto_update": true,
+    "skip_animation": false,
+    "webhooks": [
+        "https://discord.com/api/webhooks/1541189094162301059/P5mX9KF7TVu2ifT-ZcgN6zNuYC7KhrDAWB76EfyEPSt0kzENOW4gJPJhoJcw9SUYJqyG"
+    ],
+    "tokens": [],
+    "bots": [],
+    "cookies": [],
+    "github_star": "",
+    "page": 1,
+    "plugins_visible": [
+        "Example Plugin"
+    ]
+}
